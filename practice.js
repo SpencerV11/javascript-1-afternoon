@@ -31,7 +31,7 @@ var finalGreeting = (name) => `Hello, ${name}`
 //Create an array called groceries with the values
 //"apples", "milk", "eggs", "bread"
 
-let groceries = ["apples", "milk", "eggs", "bread"]
+let groceries = ["apples", "milk", "eggs", "bread", "banana's"]
 
 //Write a function called doubleCheck that takes in an array
 //as a parameter.
